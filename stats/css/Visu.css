@@ -1,0 +1,41 @@
+*{
+    container: 50px;
+}
+
+.bg_de{
+    margin-top: 100px;
+    background-image: url("../images/paralex.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 500px;
+}
+
+footer{
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#pos_name{
+    margin-left: 200px;
+    max-width: 300px;
+    padding-top: 200px;
+    text-align:center;
+}
+
+.title{
+    padding: 15px;
+    color: blue;
+}
+
+.con_de{
+    background-color: antiquewhite;
+    padding: 90px;
+}
+
+.con_fo{
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+.imageAboutPage {
+    width: 100%;
+}
